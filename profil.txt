@@ -1,2 +1,2 @@
-membuat nama
-membuat alamat
+membuat nama + lengkap
+membuat alamat + lengkap
