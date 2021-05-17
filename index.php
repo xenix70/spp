@@ -2,5 +2,6 @@
 - membuat home php
 - membuat profil php
 - membuat kontak php
-- membuat galeri php
+
 - membuat hyperlink php
+- membuat img src
