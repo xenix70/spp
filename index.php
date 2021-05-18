@@ -6,3 +6,6 @@
 - membuat hyperlink php //edit fitur2
 - membuat img src //edit fitur2
 - membuat form login ////edit fitur2
+- depo
+- wede
+- fm
