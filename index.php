@@ -9,3 +9,5 @@
 - depo
 - wede
 - fm
+- verifikasi
+
