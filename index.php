@@ -3,5 +3,6 @@
 - membuat profil php //edit fitur1
 - membuat kontak php //edit fitur1
 
-- membuat hyperlink php
-- membuat img src
+- membuat hyperlink php //edit fitur2
+- membuat img src //edit fitur2
+- membuat form login ////edit fitur2
